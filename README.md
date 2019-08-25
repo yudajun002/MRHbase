@@ -1,0 +1,1 @@
+mapReduce output result to hbase pratise
